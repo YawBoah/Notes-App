@@ -8,7 +8,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #cf9aff, #95c0ff);
+    background: linear-gradient(135deg, #f5f103, #0345fb);
     color: #fff;
     padding-top: 4%;
     padding-left: 10%;
@@ -28,7 +28,7 @@
 .container button{
     display: flex;
     align-items: center;
-    background: linear-gradient(#9418fd, #571094);
+    background: linear-gradient(135deg, #0319c0, #004f9f);
     color: #fff;
     font-size: 16px;
     outline: 0;
